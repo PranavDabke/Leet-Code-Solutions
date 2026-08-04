@@ -1,22 +1,49 @@
 #include <stdlib.h>
 
+#define HASH_SIZE 10007
+
+typedef struct Node {
+    int key;
+    int index;
+    struct Node *next;
+} Node;
+
+int hash(int key) {
+    if (key < 0)
+        key = -key;
+    return key % HASH_SIZE;
+}
+
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 
-    int *result = (int*)malloc(2 * sizeof(int));
+    Node* table[HASH_SIZE] = {NULL};
+
+    int* result = (int*)malloc(2 * sizeof(int));
 
     for (int i = 0; i < numsSize; i++) {
 
-        for (int j = i + 1; j < numsSize; j++) {
+        int complement = target - nums[i];
+        int h = hash(complement);
 
-            if (nums[i] + nums[j] == target) {
+        Node* curr = table[h];
 
-                result[0] = i;
-                result[1] = j;
+        while (curr) {
+            if (curr->key == complement) {
+                result[0] = curr->index;
+                result[1] = i;
                 *returnSize = 2;
-
                 return result;
             }
+            curr = curr->next;
         }
+
+        h = hash(nums[i]);
+
+        Node* newNode = (Node*)malloc(sizeof(Node));
+        newNode->key = nums[i];
+        newNode->index = i;
+        newNode->next = table[h];
+        table[h] = newNode;
     }
 
     *returnSize = 0;
