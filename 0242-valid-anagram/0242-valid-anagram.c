@@ -1,21 +1,20 @@
 #include <stdbool.h>
 #include <string.h>
+#include <stdlib.h>
+
+int compare(const void *a, const void *b) {
+    return (*(char*)a - *(char*)b);
+}
 
 bool isAnagram(char* s, char* t) {
-    if (strlen(s) != strlen(t))
+    int n1 = strlen(s);
+    int n2 = strlen(t);
+
+    if (n1 != n2)
         return false;
 
-    int count[26] = {0};
+    qsort(s, n1, sizeof(char), compare);
+    qsort(t, n2, sizeof(char), compare);
 
-    for (int i = 0; s[i] != '\0'; i++) {
-        count[s[i] - 'a']++;
-        count[t[i] - 'a']--;
-    }
-
-    for (int i = 0; i < 26; i++) {
-        if (count[i] != 0)
-            return false;
-    }
-
-    return true;
+    return strcmp(s, t) == 0;
 }
