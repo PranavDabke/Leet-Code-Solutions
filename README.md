@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
