@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
