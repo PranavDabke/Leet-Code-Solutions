@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
