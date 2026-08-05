@@ -1,20 +1,15 @@
 class Solution:
-    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        i = m - 1      # Last valid element in nums1
-        j = n - 1      # Last element in nums2
-        k = m + n - 1  # Last position in nums1
+    def merge(self, nums1, m, nums2, n):
 
-        while i >= 0 and j >= 0:
-            if nums1[i] > nums2[j]:
-                nums1[k] = nums1[i]
-                i -= 1
-            else:
-                nums1[k] = nums2[j]
-                j -= 1
-            k -= 1
+        # Take only the valid elements from nums1
+        arr1 = nums1[:m]
 
-        # Copy remaining elements from nums2
-        while j >= 0:
-            nums1[k] = nums2[j]
-            j -= 1
-            k -= 1
+        # Merge both arrays
+        merged = arr1 + nums2
+
+        # Sort the merged array
+        merged.sort()
+
+        # Copy back into nums1
+        for i in range(m + n):
+            nums1[i] = merged[i]
