@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0704-binary-search) |
 ## Matrix
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
