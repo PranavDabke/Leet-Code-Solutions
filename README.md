@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0622-design-circular-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
