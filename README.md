@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -150,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0622-design-circular-queue](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0622-design-circular-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
