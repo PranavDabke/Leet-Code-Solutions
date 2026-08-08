@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0622-design-circular-queue](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0622-design-circular-queue) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
