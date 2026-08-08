@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -181,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PranavDabke/Leet-Code-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
